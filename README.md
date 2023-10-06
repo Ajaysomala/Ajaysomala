@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ajaysomala
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Satck dev #
-- 💞️ I’m looking to collaborate on Software Development!
+  Programmer | Developper | Content Creator | Fullstackdev
 - 📫 How to reach me Just Ping ME.
 
 <!---
